@@ -7,8 +7,7 @@
 
 ### 🚀 About Me
 - 🌱 Currently revising **C++** and building projects in **Python** (data analysis, automation, machine learning)  
-- 🔍 Interested in applying **data science** to networking, systems, and real-world problem-solving  
-- 🎮 Gamer at heart (League of Legends, Bannerlord, Minecraft)  
+- 🔍 Interested in applying **data science** to networking, systems, and real-world problem-solving   
 
 ---
 
@@ -23,6 +22,5 @@ I’m open to contributing to:
 ### 📫 Connect With Me
 - 📧 **Email:** lauchlandupreez@gmail.com  
 - 🔗 **LinkedIn:** [linkedin.com/in/lauchlan-du-preez-425a26103](https://www.linkedin.com/in/lauchlan-du-preez-425a26103/)  
-- 💬 **Discord:** Omen#8110  
-
----
+- 🔗 **GitHub:** [RSA-Omen](https://github.com/RSA-Omen/RSA-Omen)  
+- 💬 **Discord:** Omen#8110
